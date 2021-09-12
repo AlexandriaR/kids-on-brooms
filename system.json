@@ -22,7 +22,7 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
   "url": "https://github.com/Singularity-Lathe-VTT/kids-on-brooms",
-  "manifest": "",
+  "manifest": "https://raw.githubusercontent.com/Singularity-Lathe-VTT/kids-on-brooms/main/system.json",
   "download": "",
   "license": "LICENSE.txt"
 }
